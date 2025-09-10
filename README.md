@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]  
+# 👋 Olá, eu sou o Luiz 
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC-Sorocaba (3º semestre)  
 💻 Tenho 21 anos e estou iniciando minha jornada como **desenvolvedor Front-End**  
