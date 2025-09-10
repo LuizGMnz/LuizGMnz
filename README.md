@@ -14,12 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 </div>
 
----
-
-## 📂 Projetos em destaque
-- [🔗 Nome do Projeto 1](https://github.com/seu-username/projeto1) – breve descrição do que faz.  
-- [🔗 Nome do Projeto 2](https://github.com/seu-username/projeto2) – breve descrição do que faz.  
-- [🔗 Nome do Projeto 3](https://github.com/seu-username/projeto3) – breve descrição do que faz.  
 
 ---
 
